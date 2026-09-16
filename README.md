@@ -1,3 +1,5 @@
+![Studio vidéo FR](docs/banniere.png)
+
 # Studio vidéo FR — une usine à épisodes courts
 
 Un moteur qui fabrique des vidéos verticales 9:16 pédagogiques à partir d'une
