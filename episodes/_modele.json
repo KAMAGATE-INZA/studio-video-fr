@@ -1,0 +1,79 @@
+{
+  "slug": "mon-episode",
+  "titre": "Mot A ou Mot B ?",
+  "theme": {
+    "template": "duel",
+    "accent_a": "#38E1B2",
+    "accent_b": "#FF685A"
+  },
+  "voice": {
+    "enabled": true,
+    "length_scale": 1.06
+  },
+  "scenes": {
+    "hook": {
+      "narration": "MotA avec un X, ou MotB avec un Y ? Ne fais plus jamais l'erreur.",
+      "cue_a": "MotA",
+      "cue_b": "ou MotB",
+      "cue_tagline": "Ne fais",
+      "tagline": "Ne fais plus jamais l'erreur.",
+      "footer": "2 mots · 2 sens · 1 astuce"
+    },
+    "side_a": {
+      "narration": "MotA avec un X, ça veut dire PREMIER SENS. Exemple : PHRASE A.",
+      "kicker": "AVEC UN X",
+      "stem": "MOT",
+      "last": "A",
+      "definition": "Premier sens.",
+      "example": "Phrase d'exemple A.",
+      "cue_definition": "ça veut dire",
+      "cue_example": "Exemple"
+    },
+    "side_b": {
+      "narration": "MotB avec un Y, ça veut dire SECOND SENS. Exemple : PHRASE B.",
+      "kicker": "AVEC UN Y",
+      "stem": "MOT",
+      "last": "B",
+      "definition": "Second sens.",
+      "example": "Phrase d'exemple B.",
+      "cue_definition": "ça veut dire",
+      "cue_example": "Exemple"
+    },
+    "trick": {
+      "narration": "L'astuce pour retenir : MOYEN MNÉMOTECHNIQUE.",
+      "kicker": "L'ASTUCE",
+      "line": "*B* comme *B*idule",
+      "accent": "b",
+      "sub": "Reformulation courte de l'astuce.",
+      "cue_punch": "MOYEN",
+      "recap": [
+        {
+          "text": "motB  =  bidule",
+          "accent": "b"
+        },
+        {
+          "text": "motA  =  machin",
+          "accent": "a"
+        }
+      ]
+    },
+    "outro": {
+      "narration": "Abonne-toi pour enrichir ton vocabulaire chaque jour !",
+      "kicker": "À RETENIR",
+      "cta": "Abonne-toi pour enrichir ton vocabulaire chaque jour !",
+      "cue_cta": "Abonne",
+      "recap": [
+        {
+          "word": "motA",
+          "mean": "premier sens",
+          "accent": "a"
+        },
+        {
+          "word": "motB",
+          "mean": "second sens",
+          "accent": "b"
+        }
+      ]
+    }
+  }
+}

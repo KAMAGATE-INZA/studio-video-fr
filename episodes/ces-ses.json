@@ -1,0 +1,29 @@
+{
+  "slug": "ces-ses",
+  "titre": "Ces ou ses ?",
+  "theme": {
+    "template": "tableau",
+    "accent_a": "#2F6FEB",
+    "accent_b": "#E24848"
+  },
+  "formule": "quiz",
+  "contenu": {
+    "mot_a": "ces",
+    "lettre_a": "C",
+    "mention_a": "",
+    "mention_b": "",
+    "sens_a": "ceux-là, qu'on montre",
+    "exemple_a": "Regarde ces montagnes.",
+    "mot_b": "ses",
+    "lettre_b": "S",
+    "sens_b": "qui lui appartiennent",
+    "exemple_b": "Il a rangé ses affaires.",
+    "astuce": "remplace par « les siens » : si ça marche, c'est ses",
+    "mnemo": "*ses* = *les siens*",
+    "trou": "il a rangé ___ affaires",
+    "vignette_a": "dossier",
+    "vignette_b": "duo",
+    "categorie": "homophones",
+    "faux": ""
+  }
+}

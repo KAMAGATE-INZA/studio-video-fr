@@ -1,0 +1,10 @@
+# Ce qui se refabrique, ou ce qui n'appartient qu'à cette machine
+.venv/
+__pycache__/
+*.pyc
+rendus/
+voix/*.onnx
+voix/*.onnx.json
+voix/*/
+journal/*.csv
+.DS_Store

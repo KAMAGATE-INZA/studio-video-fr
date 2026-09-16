@@ -1,0 +1,29 @@
+{
+  "slug": "peu-peut",
+  "titre": "Peu ou peut ?",
+  "theme": {
+    "template": "tableau",
+    "accent_a": "#1F9D6B",
+    "accent_b": "#E2762F"
+  },
+  "formule": "erreur",
+  "contenu": {
+    "mot_a": "peu",
+    "lettre_a": "U",
+    "mention_a": "",
+    "mention_b": "",
+    "sens_a": "une petite quantité",
+    "exemple_a": "Il reste peu de temps.",
+    "mot_b": "peut",
+    "lettre_b": "T",
+    "sens_b": "le verbe pouvoir",
+    "exemple_b": "Il peut encore réussir.",
+    "astuce": "remplace par « pouvait » ; si ça marche, c'est peut",
+    "mnemo": "*peut* = *pouvait*",
+    "trou": "il ___ encore réussir",
+    "vignette_a": "balance",
+    "vignette_b": "valide",
+    "categorie": "conjugaison",
+    "faux": ""
+  }
+}
